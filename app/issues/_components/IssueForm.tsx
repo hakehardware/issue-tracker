@@ -1,4 +1,4 @@
-'use client';
+'use client'
 
 import ErrorMessage from '@/app/components/ErrorMessage'
 import Spinner from '@/app/components/Spinner'
